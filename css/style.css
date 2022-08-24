@@ -1,0 +1,123 @@
+body {
+	font-family: sans-serif;
+	background-color:  #caf8ff ;
+}
+
+.site-title {
+	font-weight: bold;
+	font-size: 1.7em;
+	display: inline-block;
+}
+
+.header {
+	background-color:  #5e5682  ;
+	margin: 0;
+}
+
+.site-title a {
+	color: white;
+}
+
+.site-title a:hover {
+	color: lightgray;
+}
+
+.header-links-list li {
+	display: inline-block;
+	padding:20px;
+}
+
+.header-links {
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+	color: lightgreen;
+}
+
+a:hover {
+	color: green;
+}
+
+.hero {
+	text-align: center;
+	background-image: url('../images/languages.png');
+	width: 100%;
+	height: 50%;
+	margin: 0;
+}
+
+.content {
+	margin: 0;
+	align-content: center;
+}
+
+.hero-title {
+	color: #a34;
+	font-weight: bold;
+	font-size: 1.7em;
+	padding: 40px;
+}
+
+.hero-description {
+	color: #b2b;
+	font-size: 1.3em;
+}
+
+.content img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.tech1-img {
+	float: left;
+	margin-right: 30px;
+}
+.tech2-img {
+	float: right;
+	margin-left: 30px;
+}
+.tech3-img {
+	float: left;
+	margin-right: 30px;
+}
+
+.tech2 {
+	text-align: right;
+}
+
+.technologies {
+	width: 70%;
+	margin:50px auto;
+}
+
+.technologies div {
+	margin-bottom: 50px;
+}
+
+.technologies h3 {
+	text-align: center;
+}
+
+.footer {
+	background-color: #b2b;
+	margin: 0;
+}
+
+.footer-links ul li{
+	display: inline-block;
+	padding: 10px;
+	text-align: center;
+}
+
+.footer-links h3 {
+	text-align: center;
+	padding: 10px;
+}
+
+hr {
+	width: 75%;
+	border: dashed rebeccapurple 3px;
+}
